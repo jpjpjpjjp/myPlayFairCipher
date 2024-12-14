@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jploy\\source\\repos\\PlayfairCipher\\",
+  "WorkspaceRootPath": "C:\\Users\\jploy\\Documents\\GitHub\\PlayFairCipher\\PlayfairCipher\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{36F4500D-696A-4B36-987F-948EA19F8C46}|PlayfairCipher\\PlayfairCipher.csproj|c:\\users\\jploy\\source\\repos\\playfaircipher\\playfaircipher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{36F4500D-696A-4B36-987F-948EA19F8C46}|PlayfairCipher\\PlayfairCipher.csproj|c:\\users\\jploy\\documents\\github\\playfaircipher\\playfaircipher\\playfaircipher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36F4500D-696A-4B36-987F-948EA19F8C46}|PlayfairCipher\\PlayfairCipher.csproj|solutionrelative:playfaircipher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36F4500D-696A-4B36-987F-948EA19F8C46}|PlayfairCipher\\PlayfairCipher.csproj|c:\\users\\jploy\\source\\repos\\playfaircipher\\playfaircipher\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{36F4500D-696A-4B36-987F-948EA19F8C46}|PlayfairCipher\\PlayfairCipher.csproj|C:\\Users\\jploy\\Documents\\GitHub\\PlayFairCipher\\PlayfairCipher\\playfaircipher\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{36F4500D-696A-4B36-987F-948EA19F8C46}|PlayfairCipher\\PlayfairCipher.csproj|solutionrelative:playfaircipher\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jploy\\source\\repos\\PlayfairCipher\\PlayfairCipher\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\jploy\\Documents\\GitHub\\PlayFairCipher\\PlayfairCipher\\PlayfairCipher\\Program.cs",
               "RelativeDocumentMoniker": "PlayfairCipher\\Program.cs",
-              "ToolTip": "C:\\Users\\jploy\\source\\repos\\PlayfairCipher\\PlayfairCipher\\Program.cs",
+              "ToolTip": "C:\\Users\\jploy\\Documents\\GitHub\\PlayFairCipher\\PlayfairCipher\\PlayfairCipher\\Program.cs",
               "RelativeToolTip": "PlayfairCipher\\Program.cs",
               "ViewState": "AgIAADwAAAAAAAAAAAAwwBQBAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -41,13 +41,12 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\jploy\\source\\repos\\PlayfairCipher\\PlayfairCipher\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\jploy\\Documents\\GitHub\\PlayFairCipher\\PlayfairCipher\\PlayfairCipher\\Form1.cs",
               "RelativeDocumentMoniker": "PlayfairCipher\\Form1.cs",
               "ToolTip": "C:\\Users\\jploy\\source\\repos\\PlayfairCipher\\PlayfairCipher\\Form1.cs [Design]",
-              "RelativeToolTip": "PlayfairCipher\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\PlayfairCipher\\PlayfairCipher\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T09:19:24.667Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-13T09:19:24.667Z"
             }
           ]
         }
